@@ -1,0 +1,25 @@
+[{
+  "imagen": "BrazoGitano.jpg",
+  "nombre_producto": "Brazo Gitano",
+  "descripcion_producto": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam ab assumenda quam sed neque error necessitatibus cupiditate tempore dolores. A dolore natus aperiam aspernatur voluptatum corrupti ea similique quasi asperiores."
+},
+{
+  "imagen": "cupcakes.jpg",
+  "nombre_producto": "Cupcakes",
+  "descripcion_producto": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam ab assumenda quam sed neque error necessitatibus cupiditate tempore dolores. A dolore natus aperiam aspernatur voluptatum corrupti ea similique quasi asperiores."
+},
+{
+  "imagen": "galletas.jpg",
+  "nombre_producto": "Galletas",
+  "descripcion_producto": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam ab assumenda quam sed neque error necessitatibus cupiditate tempore dolores. A dolore natus aperiam aspernatur voluptatum corrupti ea similique quasi asperiores."
+},
+{
+  "imagen": "tarta.jpg",
+  "nombre_producto": "Tarta",
+  "descripcion_producto": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam ab assumenda quam sed neque error necessitatibus cupiditate tempore dolores. A dolore natus aperiam aspernatur voluptatum corrupti ea similique quasi asperiores."
+},
+{
+  "imagen": "mousse.jpg",
+  "nombre_producto": "Mousse",
+  "descripcion_producto": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam ab assumenda quam sed neque error necessitatibus cupiditate tempore dolores. A dolore natus aperiam aspernatur voluptatum corrupti ea similique quasi asperiores."
+}]

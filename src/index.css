@@ -1,0 +1,110 @@
+html{
+  font-family: 'Comfortaa', cursive;
+}
+
+*{
+  color: white;
+}
+
+p{
+  text-align: justify;
+}
+
+body{
+  margin: 0;
+  background-color: #212120;
+}
+
+#nombre-local, h2, h3{
+  color: #ff6a81;
+}
+
+header{
+  background-color: #0D0D0D;
+  padding: 2rem 1rem;
+}
+
+header label{
+  display: block;
+  padding: 0.25rem;
+}
+
+.logo{
+  width: 100px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h2, h3{
+  margin: 2rem;
+  font-size: larger;
+}
+
+.container-productos{
+  display: flex;
+  justify-content: space-around;
+}
+
+.container-productos img{
+  margin: 2rem 2rem;
+}
+
+.container-productos div{
+  margin: 2rem 2rem;
+}
+
+#lista-productos{
+  margin: 2rem 0rem 1rem 0rem;
+  padding-bottom: 2rem;
+}
+
+#nombre-producto{
+  color: #ff6a81;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+iframe{
+  padding: 0;
+  margin: 1.5rem 2rem 0.5rem 2rem;
+  border: 0;
+  max-width: 520px;
+  max-height: 400px;
+}
+
+#tele-contactos{
+  margin: 2rem 2rem;
+}
+
+#redes{
+  transition: color 0.2s ease;
+  margin: 0.5rem 1rem 0.5rem 1.5rem;
+  padding-bottom: 2rem;
+}
+
+#redes:hover{
+  color: #ff6a81;
+}
+
+div a{
+  text-decoration: none;
+}
+
+footer{
+  background-color: #0D0D0D;
+  padding: 2rem 1rem;
+}
+
+footer label{
+  margin: 0rem 1rem 0rem 2rem;
+}
+
+footer a{
+  float: right;
+  margin: 0rem 2rem 0rem 1rem;
+  transition: color 0.3s ease;
+}
+
+footer a:hover{
+  color: #ff6a81;
+}
